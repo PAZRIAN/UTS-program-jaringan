@@ -1,8 +1,14 @@
 
 Aplikasi Chat Sederhana dengan TCP
 Proyek ini merupakan implementasi aplikasi chat sederhana yang dikerjakan oleh 
+
+
 Pazrian Nurul LatiP Nim ; 362201004 
+
+
 okky agung sunata Nim : 362201008
+
+
 menggunakan model jaringan TCP (Transmission Control Protocol). Aplikasi ini terdiri dari server (ChatTCPServer) dan klien (ChatTCPClient). Server dapat menangani beberapa klien secara simultan dengan menggunakan thread individual untuk setiap koneksi.
 
 Fitur
@@ -20,6 +26,9 @@ Klien (ChatTCPClient.java)
 Menghubungkan diri ke server menggunakan TCP.
 Menerima input pengguna untuk nama pengguna.
 Mengirim dan menerima pesan dari server.
+
+
+
 Penggunaan
 1
 Kompilasi berkas Java server dan client:
