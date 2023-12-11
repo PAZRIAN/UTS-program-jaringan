@@ -10,7 +10,10 @@ Aplikasi Chat Sederhana dengan TCP
 Proyek ini merupakan implementasi aplikasi chat sederhana yang dikerjakan oleh 
 
 
-Pazrian Nurul LatiP Nim ; 362201004 
+Pazrian Nurul LatiP Nim ; 362201004
+
+
+Rizky aqsal H.  Nim : 362201021
 
 
 okky agung sunata Nim : 362201008
