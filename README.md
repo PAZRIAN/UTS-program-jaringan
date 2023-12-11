@@ -13,7 +13,7 @@ Proyek ini merupakan implementasi aplikasi chat sederhana yang dikerjakan oleh
 Pazrian Nurul LatiP Nim ; 362201004
 
 
-Rizky aqsal H.  Nim : 362201021
+Rhisky aqsal H.  Nim : 362201021
 
 
 okky agung sunata Nim : 362201008
