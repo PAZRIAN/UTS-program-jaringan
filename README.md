@@ -1,5 +1,12 @@
 
 Aplikasi Chat Sederhana dengan TCP
+
+
+
+
+
+
+
 Proyek ini merupakan implementasi aplikasi chat sederhana yang dikerjakan oleh 
 
 
