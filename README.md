@@ -21,16 +21,19 @@ Menghubungkan diri ke server menggunakan TCP.
 Menerima input pengguna untuk nama pengguna.
 Mengirim dan menerima pesan dari server.
 Penggunaan
-Kompilasi berkas Java server dan client:
-
 1
-javac ChatTCPServer.java
-javac ChatServerThread.java
-javac ChatTCPClient.java
-Jalankan server:
+Kompilasi berkas Java server dan client:
+-javac ChatTCPServer.java
+
+-javac ChatServerThread.java
+
+-javac ChatTCPClient.java
 
 2
+Jalankan server:
 java ChatTCPServer
+
+3
 Jalankan klien(s):
 
 3
